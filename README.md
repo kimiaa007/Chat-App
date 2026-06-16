@@ -1,5 +1,4 @@
 # Real-time Chat App
-
 Full-featured chat application.
 
 ## Features
